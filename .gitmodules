@@ -1,0 +1,39 @@
+[submodule "android"]
+	path = android
+	url = git@github.com:hoccer/hoccer-xo-android.git
+[submodule "cli-api"]
+	path = cli-api
+	url = git@github.com:hoccer/better-cli.git
+[submodule "cli-log4j"]
+	path = cli-log4j
+	url = git@github.com:hoccer/better-cli-log4j.git
+[submodule "client"]
+	path = client
+	url = git@github.com:hoccer/talk-client.git
+[submodule "common"]
+	path = common
+	url = git@github.com:hoccer/talk-common.git
+[submodule "filecache"]
+	path = filecache
+	url = git@github.com:hoccer/talk-filecache.git
+[submodule "integration-tests"]
+	path = integration-tests
+	url = git@github.com:hoccer/talk-integration-tests.git
+[submodule "jsonrpc-annotations"]
+	path = jsonrpc-annotations
+	url = git@github.com:hoccer/better-jsonrpc-annotations.git
+[submodule "jsonrpc-common"]
+	path = jsonrpc-common
+	url = git@github.com:hoccer/better-jsonrpc-common.git
+[submodule "jsonrpc-websocket"]
+	path = jsonrpc-websocket
+	url = git@github.com:hoccer/better-jsonrpc-websocket.git
+[submodule "server"]
+	path = server
+	url = git@github.com:hoccer/talk-server.git
+[submodule "srp"]
+	path = srp
+	url = git@github.com:hoccer/talk-srp.git
+[submodule "tool"]
+	path = tool
+	url = git@github.com:hoccer/talk-tool.git
