@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <option name="DEFAULT_COMPILER" />
+    <option name="DEFAULT_COMPILER" value="Javac" />
     <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
@@ -17,7 +17,40 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="better-cli-api" />
+        <module name="better-cli-log4j" />
+        <module name="better-jsonrpc-annotations" />
+        <module name="better-jsonrpc-common" />
+        <module name="better-jsonrpc-websocket" />
+        <module name="hoccer-talk-android" />
+        <module name="hoccer-talk-client" />
+        <module name="hoccer-talk-common" />
+        <module name="hoccer-talk-filecache" />
+        <module name="hoccer-talk-server" />
+        <module name="hoccer-talk-srp" />
+        <module name="hoccer-talk-tool" />
+        <module name="integration-tests" />
+      </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="better-cli-api" target="1.6" />
+      <module name="better-cli-log4j" target="1.6" />
+      <module name="better-jsonrpc-annotations" target="1.6" />
+      <module name="better-jsonrpc-common" target="1.6" />
+      <module name="better-jsonrpc-websocket" target="1.6" />
+      <module name="hoccer-talk-android" target="1.6" />
+      <module name="hoccer-talk-client" target="1.6" />
+      <module name="hoccer-talk-common" target="1.6" />
+      <module name="hoccer-talk-filecache" target="1.6" />
+      <module name="hoccer-talk-server" target="1.6" />
+      <module name="hoccer-talk-srp" target="1.6" />
+      <module name="hoccer-talk-tool" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
