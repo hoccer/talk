@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cli-api/better-cli-api.iml" filepath="$PROJECT_DIR$/cli-api/better-cli-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cli-log4j/better-cli-log4j.iml" filepath="$PROJECT_DIR$/cli-log4j/better-cli-log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonrpc-annotations/better-jsonrpc-annotations.iml" filepath="$PROJECT_DIR$/jsonrpc-annotations/better-jsonrpc-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonrpc-common/better-jsonrpc-common.iml" filepath="$PROJECT_DIR$/jsonrpc-common/better-jsonrpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonrpc-websocket/better-jsonrpc-websocket.iml" filepath="$PROJECT_DIR$/jsonrpc-websocket/better-jsonrpc-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoccer-talk.iml" filepath="$PROJECT_DIR$/hoccer-talk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/hoccer-talk-android.iml" filepath="$PROJECT_DIR$/android/hoccer-talk-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/hoccer-talk-client.iml" filepath="$PROJECT_DIR$/client/hoccer-talk-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/hoccer-talk-common.iml" filepath="$PROJECT_DIR$/common/hoccer-talk-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filecache/hoccer-talk-filecache.iml" filepath="$PROJECT_DIR$/filecache/hoccer-talk-filecache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/hoccer-talk-server.iml" filepath="$PROJECT_DIR$/server/hoccer-talk-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srp/hoccer-talk-srp.iml" filepath="$PROJECT_DIR$/srp/hoccer-talk-srp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tool/hoccer-talk-tool.iml" filepath="$PROJECT_DIR$/tool/hoccer-talk-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-tests/integration-tests.iml" filepath="$PROJECT_DIR$/integration-tests/integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/gen-external-apklibs/~apklib-com.google.android.gms_google-play-services_14.0.0.iml" filepath="$PROJECT_DIR$/android/gen-external-apklibs/~apklib-com.google.android.gms_google-play-services_14.0.0.iml" />
+    </modules>
+  </component>
+</project>
+
