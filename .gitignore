@@ -3,6 +3,7 @@
 build.log
 build-log.xml
 .idea/workspace.xml
+out
 **/*.iml
 *.iml
 **/.project
